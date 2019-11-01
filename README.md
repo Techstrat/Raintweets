@@ -49,12 +49,12 @@ The analysis might seem trivial and probably is – but it demonstrated the foll
 
 *	Source the data 
 
-**	Confirm the data is available - identify an area, harvest tweets from the area, source historic rainfall data for the area
+a.	Confirm the data is available - identify an area, harvest tweets from the area, source historic rainfall data for the area
 
-**	Clean up the data – the rainfall was given in 3 hour intervals, the tweets  at a specific time, add up the tweets, divide them into 
+b.	Clean up the data – the rainfall was given in 3 hour intervals, the tweets  at a specific time, add up the tweets, divide them into 
  hour intervals, join the groups, manage missing data.
 
-**	Explore the data – initial graphs set the expectation to expect a higher correlation in daily data than 3 hourly data.
+c.	Explore the data – initial graphs set the expectation to expect a higher correlation in daily data than 3 hourly data.
 
 *	Apply an algorithm – Pearson’s correlation to the rescue !
 
