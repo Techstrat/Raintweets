@@ -1,4 +1,4 @@
-# raintweets
+# Raintweets
 What is the correlation between rainfall and tweets containing the word RAIN
 
 ## A trivial day for Rain and Twitter correlation
